@@ -1,4 +1,7 @@
-# CCDGUTNetCracker
+# CCDGUTNetCracker [停止维护]
+**Windows版已不再维护，需要更好的效果，请使用[CCDGUT Network Cracker - Router version](https://github.com/yzsme/CCDGUTNetCrackerR)**
+***
+
 用于东莞城院校园网，因共享网络被限制网络后，解除限制。
 
 最新版本：0.2.1
